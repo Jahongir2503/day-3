@@ -1,6 +1,6 @@
 <?php
 
-namespace Collects;
+namespace Collect;
 
 class Collect
 {
